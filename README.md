@@ -1,2 +1,3 @@
 # testgpg
-test
+
+test commit with GPG key signing
