@@ -1,0 +1,20 @@
+{
+  "name": "testgpg",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "test.js",
+  "private": true,
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhaynie/testgpg.git"
+  },
+  "author": "Jeff Haynie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhaynie/testgpg/issues"
+  },
+  "homepage": "https://github.com/jhaynie/testgpg#readme"
+}
