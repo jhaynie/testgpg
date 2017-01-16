@@ -20,3 +20,6 @@ const e = 5;
 class Foo {
 }
 
+if (e !== b + c) {
+  throw new Error("should have matched");
+}
