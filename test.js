@@ -19,3 +19,6 @@ const e = 5;
 // add an internal class
 class Foo {
 }
+
+export class Bar {
+}
