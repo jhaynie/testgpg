@@ -22,3 +22,5 @@ class Foo {
 
 export class Bar {
 }
+
+export const FOO = 1;
