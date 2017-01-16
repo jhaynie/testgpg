@@ -24,3 +24,6 @@ export class Bar {
 }
 
 export const FOO = 1;
+
+export default class Animal {
+}
