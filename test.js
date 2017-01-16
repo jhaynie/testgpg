@@ -12,3 +12,6 @@ var c = 3;
 
 // add a comment
 var d = 4;
+
+// this is a constant
+const e = 5;
