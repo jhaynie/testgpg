@@ -15,3 +15,7 @@ var d = 4;
 
 // this is a constant
 const e = 5;
+
+// add an internal class
+class Foo {
+}
