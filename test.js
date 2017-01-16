@@ -9,3 +9,27 @@ var b = 2;
 
 // this should be c
 var c = 3;
+
+// add a comment
+var d = 4;
+
+// this is a constant
+const e = 5;
+
+// add an internal class
+class Foo {
+}
+
+export class Bar {
+}
+
+export const FOO = 1;
+
+export default class Animal {
+}
+
+export class Dog extends Animal {
+}
+
+export class Cat extends Animal {
+}
