@@ -10,4 +10,5 @@ var b = 2;
 // this should be c
 var c = 3;
 
+// add a comment
 var d = 4;
