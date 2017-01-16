@@ -9,3 +9,5 @@ var b = 2;
 
 // this should be c
 var c = 3;
+
+var d = 4;
