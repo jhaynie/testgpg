@@ -20,16 +20,3 @@ const e = 5;
 class Foo {
 }
 
-export class Bar {
-}
-
-export const FOO = 1;
-
-export default class Animal {
-}
-
-export class Dog extends Animal {
-}
-
-export class Cat extends Animal {
-}
