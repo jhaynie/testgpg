@@ -30,3 +30,6 @@ export default class Animal {
 
 export class Dog extends Animal {
 }
+
+export class Cat extends Animal {
+}
