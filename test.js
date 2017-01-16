@@ -27,3 +27,6 @@ export const FOO = 1;
 
 export default class Animal {
 }
+
+export class Dog extends Animal {
+}
