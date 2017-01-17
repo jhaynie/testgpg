@@ -11,4 +11,3 @@ I made this change from a fork
 
 Hello world!
 
-Jeff
