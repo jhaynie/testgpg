@@ -26,4 +26,3 @@ if (e !== b + c) {
 
 console.log('test passed!');
 
-^
