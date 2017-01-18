@@ -26,6 +26,6 @@ if (e !== b + c) {
   throw new Error("should have matched");
 }
 
-console.log('test 24');
+console.log('test 25');
 console.log('!test passed!');
 
